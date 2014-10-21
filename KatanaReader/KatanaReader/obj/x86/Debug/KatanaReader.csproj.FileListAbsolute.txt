@@ -1,0 +1,17 @@
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Debug\text.txt
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Debug\KatanaReader.exe.config
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Debug\KatanaReader.exe
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Debug\KatanaReader.pdb
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.Mainform.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.Optionform.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.Properties.Resources.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.exe
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.pdb
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.Aboutform.resources
+C:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.csproj.ResolveComReference.cache
+C:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Debug\lame.exe
+C:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Debug\KatanaReader.ExportForm.resources

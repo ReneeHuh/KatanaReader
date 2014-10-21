@@ -1,0 +1,67 @@
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\bin\Release\KatanaReader.exe
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\bin\Release\KatanaReader.pdb
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\KatanaReader.Mainform.resources
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\KatanaReader.Properties.Resources.resources
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\KatanaReader.exe
+C:\Users\bacon21\AppData\Local\Temporary Projects\KatanaReader\obj\x86\Release\KatanaReader.pdb
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.exe
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.pdb
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Mainform.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Optionform.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Properties.Resources.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.exe.config
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.exe
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.pdb
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\text.txt
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Aboutform.resources
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.csproj.ResolveComReference.cache
+C:\Users\bacon21\documents\visual studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\lame.exe
+C:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.ExportForm.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.exe.config
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\Interop.SpeechLib.dll
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.csproj.ResolveComReference.cache
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.exe
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.pdb
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Aboutform.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.ExportForm.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Optionform.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Properties.Resources.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\lame.exe
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\text.txt
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.exe
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\bin\Release\KatanaReader.pdb
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader_2\KatanaReader\bin\Release\KatanaReader.exe.config
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader_2\KatanaReader\obj\x86\Release\Interop.SpeechLib.dll
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader_2\KatanaReader\obj\x86\Release\KatanaReader.csproj.ResolveComReference.cache
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader_2\KatanaReader\obj\x86\Release\KatanaReader.exe
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader_2\KatanaReader\obj\x86\Release\KatanaReader.pdb
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.VoiceOptionsForm.resources
+D:\Users\bacon21\Documents\Visual Studio 2010\Projects\KatanaReader\KatanaReader\obj\x86\Release\KatanaReader.Mainform.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\bin\Release\lame.exe
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\bin\Release\text.txt
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\bin\Release\KatanaReader.exe.config
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\bin\Release\KatanaReader.exe
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\bin\Release\KatanaReader.pdb
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\Interop.SpeechLib.dll
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.csproj.ResolveComReference.cache
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.Aboutform.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.ExportForm.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.Mainform.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.Optionform.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.Properties.Resources.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.VoiceOptionsForm.resources
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.exe
+D:\Users\bacon21\Documents\Projects SVN\Katana Reader\KatanaReader\obj\x86\Release\KatanaReader.pdb

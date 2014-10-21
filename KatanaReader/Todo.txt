@@ -1,0 +1,26 @@
+location replace 
+
+option form
+
+highligh()
+
+scrolltoline()
+{
+get line
+
+set line
+
+
+}
+click to stop c/w
+
+
+use dll to capture clipboard copy and send to mainform
+
+setup voice options form
+
+fix autocopy text follow 
+
+tab interface maybe
+
+fixing highlight copy rtbmain.txt to temptext and copy back when stopped of finished

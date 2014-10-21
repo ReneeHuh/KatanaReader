@@ -1,0 +1,9 @@
+todo 
+
+Icons
+
+clean up code
+
+full settings and config menus
+
+fully ready to ship execpt for sapi and other voices.
